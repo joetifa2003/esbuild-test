@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@craftamap/esbuild-plugin-html": "^0.6.1",
+    "autoprefixer": "^10.4.15",
+    "esbuild": "^0.19.3",
+    "esbuild-plugin-copy": "^2.1.1",
+    "esbuild-sass-plugin": "^2.15.0",
+    "postcss": "^8.4.29",
+    "rimraf": "^5.0.1",
+    "typescript": "^5.2.2"
+  },
+  "browserslist": [
+    "last 1 version"
+  ]
+}

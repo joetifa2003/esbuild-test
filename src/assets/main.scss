@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+}
+
+::placeholder {
+  color: gray;
+}
+
+.image {
+}
+
+@media (min-resolution: 2dppx) {
+  .image {
+  }
+}
